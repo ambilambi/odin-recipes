@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project's first beginner friendly HTML project.  Via this project learned about working with the github flow and had to fix link pathways to get to load properly.  
+Odin Project's first beginner friendly HTML project. The learning objective included formatting paragraphs, adding links and images, and using ordered and unordered lists.  Quickly realized could copy/paste HTML format so project did not take long.  However connecting VSC files to Github was problematic and had to fix link pathways to get to load properly. Through this I learned how to create the proper pathways in Github.
